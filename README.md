@@ -23,8 +23,8 @@ Project Structure:
 
 For styling and responsiveness, TailwindCSS has been used.
 
-![Task List Page](Task_List_page-1.png)
+![Task List Page](Task_List_page.png)
 
-![Add Task Page](Add_task_form_page-1.png)
+![Add Task Page](Add_task_form_page.png)
 
-![Edit Task Form](Edit_task_form-2.png)
+![Edit Task Form](Edit_task_form.png)
