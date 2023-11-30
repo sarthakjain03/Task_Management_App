@@ -7,6 +7,7 @@ Steps to setup the project on your system:
 4. Run 'npm run dev' to host the project on a localhost.
 
 Project Structure:
+
     Pages:
         Task list page
         Add tasks page
@@ -22,3 +23,8 @@ Project Structure:
 
 For styling and responsiveness, TailwindCSS has been used.
 
+![Task List Page](Task_List_page-1.png)
+
+![Add Task Page](Add_task_form_page-1.png)
+
+![Edit Task Form](Edit_task_form-2.png)
